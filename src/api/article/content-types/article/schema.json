@@ -19,6 +19,10 @@
     "icon": {
       "type": "string"
     },
+    "filler": {
+      "type": "boolean",
+      "default": false
+    },
     "title": {
       "type": "string",
       "pluginOptions": {
