@@ -16,6 +16,9 @@
     }
   },
   "attributes": {
+    "icon": {
+      "type": "string"
+    },
     "title": {
       "type": "string",
       "pluginOptions": {
